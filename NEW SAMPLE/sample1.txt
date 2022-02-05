@@ -1,5 +1,7 @@
 hello
 its me 
 ANUJ
+Hey...
+Whats up
 I LOVE
 PYTHON
